@@ -1,0 +1,19 @@
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+.hand {
+    margin-bottom: 15px;
+}
+
+#restart-game {
+    margin: 20px 0;
+    display: none;
+}
+
+#stay-button {
+    margin-left: 15px;
+}
